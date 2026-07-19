@@ -41,6 +41,7 @@ Pada halaman utama tersedia:
 - Judul Sistem Presensi
 - Tombol **Isi Presensi**
 - QR Code Presensi
+Preview Web.png
 
 ---
 
