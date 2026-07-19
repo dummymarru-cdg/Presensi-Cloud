@@ -67,12 +67,14 @@ Mahasiswa mengisi data yang diperlukan, antara lain:
 
 Setelah semua data terisi, tekan tombol **Submit**.
 
+![Halaman Utama](Preview-Form-Absensi1.png)
+![Halaman Utama](Preview-Form-Absensi2.png)
 ---
 
 ### 5. Penyimpanan Data
 
 Data yang dikirim akan otomatis tersimpan pada Google Sheets sebagai database cloud.
-
+![Halaman Utama](Preview-Google-Sheet.png)
 ---
 
 ### 6. Monitoring Data
@@ -207,8 +209,19 @@ Beberapa fitur yang dapat dikembangkan:
 
 # Author
 
-Nama : (Nama Anda)
+Kelompok Partai Sekandung
+091 Rifky Darmawan S
+093 Wildan Abdul A
+099 M Nabil Fadillah
+101 Rivo Septianto
+104 M Al Fatih
+107 Faturrahman Wahyudi
+108 Liltang Lalluna Z
+111 Febri Kurniawan
+113 Bagus Cahya N
+115 Fakhri Pratama A
 
+**TUGAS AKHIR CLOUD COMPUTING**
 Program Studi Ilmu Komputer
 
 Universitas Pakuan
